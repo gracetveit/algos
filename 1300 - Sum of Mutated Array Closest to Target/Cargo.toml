@@ -9,4 +9,4 @@ edition = "2021"
 
 [[bin]]
 name = "sum_of_mutated_array_closest_to_target"
-path = "main.rs"
+path = "src/main.rs"
