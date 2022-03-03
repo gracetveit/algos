@@ -1,0 +1,12 @@
+[package]
+name = "sum_of_mutated_array_closest_to_target"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "sum_of_mutated_array_closest_to_target"
+path = "main.rs"
